@@ -1,0 +1,8 @@
+## Messages
+
++---------------+-------------------+--------------+--------------+
+|    Feature    |    Description    |    Status    |    Links    |
++---------------+-------------------+--------------+--------------+
+| POLL_RESULT   | Lol               | Not Released | - [Discord API Docs PR](https://github.com/discord/discord-api-docs/pull/7050) |
+
++---------------+-------------------+--------------+--------------+
