@@ -22,3 +22,7 @@ Each feature is listed per category, matching the Discord API documentation and 
 ## Features
 
 See the [features](FEATURES.md) file for a list of all features.
+
+## Contact
+
+Feel to contact us on Discord: `soheab_` (ID: 150665783268212746) or `dev_anony` (ID: 1097155878731395134) if you have any questions, suggestions or additions.
