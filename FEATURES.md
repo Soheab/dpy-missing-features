@@ -32,7 +32,7 @@ These are divided in different categories depending on the object or concept the
 |    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
 | Application Emojis | Support for getting, editing, deleting and other various methods for application based emojis | Not Released | [GH-7010](https://github.com/discord/discord-api-docs/pull/7010) | [GH-9891](https://github.com/Rapptz/discord.py/pull/9891) | |
-| Application Integration Types | Support for getting and editing application integration types | Not Released || [GH-9818](https://github.com/Rapptz/discord.py/pull/9818) | |
+| Application Integration Types | Support for getting and editing application integration types | Not Released | | [GH-9818](https://github.com/Rapptz/discord.py/pull/9818) | |
 
 ---
 
