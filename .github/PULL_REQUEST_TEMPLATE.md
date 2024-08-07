@@ -18,6 +18,6 @@ WHEN MAKING A PR, REMOVE THIS LINE -->
 
 <!-- Check the boxes with [x] for those otems that your PR meets -->
 
-- [ ] PR contents come from a trusted source, such as DDeva Docs PR, [unofficial documentation](https://docs.discord.sex/), Discord staff mention, or others.
+- [ ] PR contents come from a trusted source, such as DDevs Docs PR, [unofficial documentation](https://docs.discord.sex/), Discord staff mention, or others.
 - [ ] Changed files formatting works as expected.
 - [ ] This is **not** a features code change.
