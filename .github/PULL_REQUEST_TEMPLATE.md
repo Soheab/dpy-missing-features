@@ -16,7 +16,7 @@ WHEN MAKING A PR, REMOVE THIS LINE -->
 
 ## Checklist
 
-<!-- Check the boxes with [x] for those otems that your PR meets -->
+<!-- Check the boxes with [x] for those items that your PR meets -->
 
 - [ ] PR contents come from a trusted source, such as DDevs Docs PR, [unofficial documentation](https://docs.discord.sex/), Discord staff mention, or others.
 - [ ] Changed files formatting works as expected.
