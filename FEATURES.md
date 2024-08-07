@@ -63,6 +63,16 @@ These are divided in different categories depending on the object or concept the
 
 ---
 
+### Stickers
+|    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
+|---------------|-------------------|--------------|-----------------------|---------------------|-------------|
+| Sticker Tags | Autocomplete/suggestion tags for stickers | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker) |
+| Sticker Type | Support for getting sticker types | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker#sticker-object-sticker-types) |
+| Sticker Available | Support for getting sticker availability | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker) |
+| Sticker Guild ID | Support for getting sticker guild ID | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker#sticker-object-sticker-guild-id) |
+| Sticker User | Support for getting the user who uploaded the sticker | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker) |
+| Sticker Sort Value | Standard sticker's sort value in its pack | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker) |
+
 ### Interactions
 
 #### Application Commands
