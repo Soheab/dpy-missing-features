@@ -8,6 +8,7 @@ These are divided in different categories depending on the object or concept the
 - [Messages](#messages)
 - [Applications](#applications)
 - [Guilds](#guilds)
+- [Stickers](#stickers)
 - [Interactions](#interactions)
 - [Webhooks](#webhooks)
 
@@ -72,6 +73,8 @@ These are divided in different categories depending on the object or concept the
 | Sticker Guild ID | Support for getting sticker guild ID | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker#sticker-object-sticker-guild-id) |
 | Sticker User | Support for getting the user who uploaded the sticker | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker) |
 | Sticker Sort Value | Standard sticker's sort value in its pack | Not Released | | | Documentation can be found [here](https://discord.com/developers/docs/resources/sticker) |
+
+---
 
 ### Interactions
 
