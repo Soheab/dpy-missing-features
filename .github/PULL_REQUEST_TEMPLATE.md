@@ -8,11 +8,9 @@
 
 ## Change Log
 
-<!-- Here add the changes you've made as unordered list -->
-<!-- WHEN MAKING A PR, REMOVE THIS LINE
-- Change log 1
-- Change log 2
-WHEN MAKING A PR, REMOVE THIS LINE -->
+<!-- List the changes you made, does not have to be in any particular order -->
+- Example log 1
+- Example log 2
 
 ## Checklist
 
