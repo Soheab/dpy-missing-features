@@ -14,6 +14,7 @@ These are divided in different categories depending on the object or concept the
   - [Guild Scheduled Event](#guild-scheduled-event)
   - [Invite](#invite)
   - [Message](#message)
+  - [Sticker](#sticker)
   - [Webhook](#webhook)
 
 ---
@@ -68,6 +69,13 @@ These are divided in different categories depending on the object or concept the
 | Forwarding | Message reference type and field on messages with new message snapshots | Not Released | [GH-6833](https://github.com/discord/discord-api-docs/pull/6833) | [GH-9892](https://github.com/Rapptz/discord.py/pull/9892) | |
 | `POLL_RESULT` Type  | Message type and field on messages with finished polls | Not Released | [GH-7050](https://github.com/discord/discord-api-docs/pull/7050) | [GH-9905](https://github.com/Rapptz/discord.py/pull/9905) | |
 | `PURCHASE_NOTIFICATION` Type | Message type | Not Released | [GH-6927](https://github.com/discord/discord-api-docs/pull/6927) | [GH-9906](https://github.com/Rapptz/discord.py/pull/9906) | |
+
+
+### Sticker
+
+|    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
+|---------------|-------------------|--------------|-----------------------|---------------------|-------------|
+| Sticker Packs | Adds support for getting sticker packs | Not Released | [GH-7065](https://github.com/discord/discord-api-docs/pull/7065) | [GH-9893](https://github.com/Rapptz/discord.py/pull/9909) | |
 
 ### Webhook
 
