@@ -36,7 +36,7 @@ These are divided in different categories depending on the object or concept the
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
 | Application Emojis | Support for getting, editing, deleting and other various methods for application based emojis | Not Released | [GH-7010](https://github.com/discord/discord-api-docs/pull/7010) | [GH-9891](https://github.com/Rapptz/discord.py/pull/9891) | |
 | Application Integration Types | Support for getting and editing application integration types | Not Released | | [GH-9818](https://github.com/Rapptz/discord.py/pull/9818) | |
-| Modify Application Fields | Add & Update multiple attributes for the AppInfo object | Not Released | [GH-6484](https://github.com/discord/discord-api-docs/pull/6484) | | Also see this [Bikeshedding post](https://canary.discord.com/channels/336642139381301249/1236550182791942186) |
+| Modify Application Fields | Add & Update multiple attributes for the AppInfo object | Not Released | [GH-6484](https://github.com/discord/discord-api-docs/pull/6484) | | Also see this [bikeshedding post](https://canary.discord.com/channels/336642139381301249/1236550182791942186) in discord.py's server |
 
 ### Guild
 
