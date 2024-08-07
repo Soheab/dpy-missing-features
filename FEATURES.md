@@ -20,7 +20,7 @@ These are divided in different categories depending on the object or concept the
 
 ## Interactions
 
-#### Application Commands
+### Application Commands
 
 |    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
