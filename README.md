@@ -14,7 +14,7 @@ You will notice that each table has a status column, this column indicates the s
 
 ## Contributing
 
-To see how to contribute in this library, take a look at [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
+To see how to contribute in this repository, take a look at [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
 
 ## Features
 
