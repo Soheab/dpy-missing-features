@@ -14,6 +14,10 @@ When creating a pull request you must fill the template, which contains the foll
 - Change Log: A list of the changes you've made to the repository files.
 - Checklist: A checklist that has to be filled depending on what your PR does.
 
+You also must make sure to provide a source to the Discord API Documentation or discord.py PR or any other "trusted"
+source like a Discord Developer/Staff member, a well-known bot developer, a well-known library developer, etcetera. Or
+if it is in the [Unofficial Discord API Documentation](https://docs.discord.sex/), you can also add it.
+
 ## Opening Issues
 
 Issues can be used to ask questions or report bugs. Before opening an issue make sure that there aren't any duplicates,
