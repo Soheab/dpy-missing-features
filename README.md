@@ -1,4 +1,4 @@
-Welcome to this repository! This repository is lists all the features that are not yet implemented in discord.py, but are supported by the [Discord API](https://discord.com/developers/docs/intro).
+Welcome to this repository! Here you will be able to access lists of all the features that are not yet implemented in discord.py, but are supported by the [Discord API](https://discord.com/developers/docs/intro).
 
 
 ## Status explanation
