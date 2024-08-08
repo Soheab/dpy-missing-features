@@ -2,6 +2,8 @@ name: Update Features Wiki Page from FEATURES.md
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'FEATURES.md'
 
