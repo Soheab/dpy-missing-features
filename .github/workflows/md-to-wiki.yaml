@@ -1,0 +1,28 @@
+name: Update Features Wiki Page from FEATURES.md
+
+on:
+  push:
+    paths:
+      - 'FEATURES.md'
+
+jobs:
+  update-wiki:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check the repo
+      uses: actions/checkout@v3
+      
+    - name: Git config
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+
+    - name: Copy file to wiki
+      run: |
+        git clone "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.wiki.git" wiki
+        cp FEATURES.md wiki/Features.md
+        cd wiki
+        git add Features.md
+        git commit -m "Push Features page from FEATURES.md"
+        git push
