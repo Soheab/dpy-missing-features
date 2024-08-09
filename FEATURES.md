@@ -5,6 +5,10 @@ These are divided in different categories depending on the object or concept the
 
 # Contents Index
 
+<details>
+
+<summary></summary>
+
 [Interactions](#interactions)
   - [Application Commands](#application-commands)
 
@@ -16,6 +20,8 @@ These are divided in different categories depending on the object or concept the
   - [Message](#message)
   - [Sticker](#sticker)
   - [Webhook](#webhook)
+
+</details>
 
 ---
 
