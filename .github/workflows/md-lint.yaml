@@ -1,0 +1,34 @@
+name: MarkDown Lint
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo Checkout
+        uses: actions/checkout@v3
+
+      - name: Install lint
+        run: npm install -g markdownlint-cli
+
+      - name: Run lint
+        run: markdownlint '**/*.md' --config .markdownlint.json > markdownlint-output.txt || true
+
+      - name: Check lint failures
+        run: |
+          if [[ -s markdownlint-output.txt ]]; then
+            echo "MarkDown Lint issues found:"
+            cat markdownlint-output.txt
+            exit 1
+          else
+            echo "No issues found"
+          fi
+        

@@ -14,10 +14,7 @@ You will notice that each table has a status column, this column indicates the s
 
 ## Contributing
 
-If you want to contribute to this repository, you can do so by creating a pull request. You can add a new feature, update an existing one or fix a mistake. If you want to add a new feature, please make sure to provide a source to the Discord API documentation, PR or any other "trusted" source like a Discord Developer / Staff member, a well-known bot developer or a well-known library developer.
-Or if it's in the [Unofficial Discord API Documentation](https://docs.discord.sex/), you can also add it.
-
-Each feature is listed per category, matching the Discord API documentation and sorted alphabetically. If you want to add a new feature, please make sure to add it to the correct category and sort it alphabetically.
+To see how to contribute in this repository, take a look at [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
 
 ## Features
 
