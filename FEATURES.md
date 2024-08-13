@@ -51,6 +51,7 @@ These are divided in different categories depending on the object or concept the
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
 | Clans | New guild type, new fields, new objects and other various things | Not Released | [GH-6836](https://github.com/discord/discord-api-docs/pull/6836) | [GH-9899](https://github.com/Rapptz/discord.py/pull/9899) | |
 | Get Guild Previews | Allows getting guild previews | Not Released | | [GH-2642](https://github.com/Rapptz/discord.py/pull/2642) | |
+| Get Guild Role | Allows getting a single role object | Not Released | [GH-7074](https://github.com/discord/discord-api-docs/pull/7074) | | |
 | Guild Incidents Data | Adds new safety related fields to guild | Not Released | [GH-6396](https://github.com/discord/discord-api-docs/pull/6396) | [GH-9808](https://github.com/Rapptz/discord.py/pull/9808) | |
 | Onboarding | Support for getting, editing, deleting and other various methods related to guild onboarding | Not Released | [GH-5915](https://github.com/discord/discord-api-docs/pull/5915) | [GH-9260](https://github.com/Rapptz/discord.py/pull/9260) | |
 | Various Parameters For `Guild.create_guild` | Adds support for passing more parameters to `Guild.create_guild` | Not Released | | | This has no PR, you can follow the discussion in the [discord.py's bikeshedding post](https://discord.com/channels/336642139381301249/1084586605928517662) |
