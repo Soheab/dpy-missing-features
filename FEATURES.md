@@ -66,8 +66,8 @@ These are divided in different categories depending on the object or concept the
 
 |    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
-| Guest Invites | Adds support for guest invites | Not Released | [GH-6247](https://github.com/discord/discord-api-docs/pull/6247) | [GH-9476](https://github.com/Rapptz/discord.py/pull/9476) | |
-| Invite Flags | Adds new invite flags | Released in version 2.4 | [GH-6568](https://github.com/discord/discord-api-docs/pull/6568) | [GH-9682](https://github.com/Rapptz/discord.py/pull/9682) | |
+| Guest Invites | Adds support for guest invites and flags | Not Released | [GH-6247](https://github.com/discord/discord-api-docs/pull/6247) | [GH-9476](https://github.com/Rapptz/discord.py/pull/9476) | |
+| Invite Type | Adds support for invite types | Released in version 2.4 | [GH-6568](https://github.com/discord/discord-api-docs/pull/6568) | [GH-9682](https://github.com/Rapptz/discord.py/pull/9682) | |
 
 ### Message
 
