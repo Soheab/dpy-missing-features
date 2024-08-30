@@ -20,6 +20,7 @@ These are divided in different categories depending on the object or concept the
   - [Message](#message)
   - [Sticker](#sticker)
   - [Webhook](#webhook)
+  - [Voice](#voice)
 
 </details>
 
@@ -91,3 +92,9 @@ These are divided in different categories depending on the object or concept the
 |    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
 |---------------|-------------------|--------------|-----------------------|---------------------|-------------|
 | Sending Voice Messages via Webhook | Allows sending voice messages via webhooks | Not Released | | [GH-9459](https://github.com/Rapptz/discord.py/pull/9459) | |
+
+### Voice
+
+|    Feature    |    Description    |    Status    |    Discord Docs PR    |    discord.py PR    |    Notes    |
+|---------------|-------------------|--------------|-----------------------|---------------------|-------------|
+| Get Voice State over HTTP | Ability to fetch an user's voice state | Not Released | [GH-7061](https://github.com/discord/discord-api-docs/pull/7061) | [GH-9908](https://github.com/Rapptz/discord.py/pull/9908) | |
